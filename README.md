@@ -1,6 +1,6 @@
 # airbnb-clone-project 🏤
 
----
+------
 
 ## Project Description
 
